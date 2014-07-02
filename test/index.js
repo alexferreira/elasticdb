@@ -1,4 +1,4 @@
-var elasticdb = require('../lib/')
+var elasticdb = require('../lib/elasticdb')
   , assert = require('assert')
   , should = require('should')
   , mongoose = require('mongoose');
