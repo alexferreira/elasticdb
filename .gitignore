@@ -3,4 +3,5 @@
 
 # misc
 .DS_Store
+elasticdb.log
 npm-debug.log
