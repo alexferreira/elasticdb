@@ -1,6 +1,6 @@
 {
   "name": "elasticdb",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "ElasticDb é um plugin para mongooosejs que fornece a funcionalidade de indexação automática no elasticsearch.",
   "author": "Alex Ferreira <alex@dsol.com.br>",
   "homepage": "https://github.com/alexferreira/elasticdb",
@@ -29,12 +29,12 @@
     "winston": "^0.7.3"
   },
   "peerDependencies": {
-    "mongoose": "3.8.4"
+    "mongoose": "3.8.*"
   },
   "devDependencies": {
     "mocha": "^1.20.1",
     "should": "^4.0.4",
-    "mongoose": "3.8.4",
+    "mongoose": "3.8.*",
     "assert": "^1.1.1"
   }
 }
